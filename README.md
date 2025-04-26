@@ -1,0 +1,1 @@
+A real-time system that detects fire and smoke, triggers alarms, and automates emergency responses using PLC technology. Designed for high safety, fast reaction, and easy integration in homes, malls, and offices.
